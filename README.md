@@ -1,7 +1,7 @@
 # sadapwa dengan termux
 
 
-adap wa dengan termux , meskipun tutorial kali ini susah untuk dilakuka untuk para pemula tapi setidaknya kita mencoba terlebih dahulu gimana cara sadap wa dengan menggunakan aplikasi termux, untuk tutorial lengkapnya di bawah ini
+Sadap wa dengan termux , meskipun tutorial kali ini susah untuk dilakuka untuk para pemula tapi setidaknya kita mencoba terlebih dahulu gimana cara sadap wa dengan menggunakan aplikasi termux, untuk tutorial lengkapnya di bawah ini
 buka aplikasi termux
 masukan semua kode perintah di bawah ini satu persatu
  apt update && apt upgrade
